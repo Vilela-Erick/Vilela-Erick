@@ -4,10 +4,10 @@
   </ul>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/1d/bb/00/1dbb00b93ca6ba312079145873584abe.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/s_tDZfyIfW0AAAAM/cat-computer.gif)">
 </a>
 
 ### &nbsp;lenguajes
