@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="386" viewBox="0 0 1200 386" role="img" aria-label="Tech stack: JavaScript, TypeScript, Python, React, HTML, CSS, NestJS, SQL, PostgreSQL and Docker">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b2b"/><stop offset="100%" stop-color="#0b1320"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="384" rx="20" fill="url(#bg)" stroke="#324a61" stroke-width="2"/>
+<text x="34" y="46" font-family="Consolas,monospace" font-size="15" letter-spacing="3" fill="#c8ff78">THE TOOLBOX</text>
+<text x="1161" y="46" text-anchor="end" font-family="Consolas,monospace" font-size="14" fill="#758da5">LANGUAGES / FRAMEWORKS / TOOLS</text>
+<path d="M 34 65 H 1166" stroke="#31495e"/>
+<text x="34" y="103" font-family="Consolas,monospace" font-size="13" fill="#7890a7">01 /</text>
+<text x="34" y="132" font-family="Arial,sans-serif" font-weight="bold" font-size="21" fill="#ecf4fa">LANGUAGES</text>
+<path d="M 309 87 V 321" stroke="#304358"/>
+<rect x="34" y="154" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="43" y="162" width="32" height="31" rx="7" fill="#f7df1e" fill-opacity=".12" stroke="#f7df1e" stroke-opacity=".48"/>
+<text x="59" y="183" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#f7df1e">JS</text>
+<text x="90" y="184" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">JavaScript</text>
+<rect x="34" y="212" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="43" y="220" width="32" height="31" rx="7" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-opacity=".48"/>
+<text x="59" y="241" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#58a6ff">TS</text>
+<text x="90" y="242" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">TypeScript</text>
+<rect x="34" y="270" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="43" y="278" width="32" height="31" rx="7" fill="#f3c969" fill-opacity=".12" stroke="#f3c969" stroke-opacity=".48"/>
+<text x="59" y="299" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#f3c969">Py</text>
+<text x="90" y="300" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">Python</text>
+<text x="323" y="103" font-family="Consolas,monospace" font-size="13" fill="#7890a7">02 /</text>
+<text x="323" y="132" font-family="Arial,sans-serif" font-weight="bold" font-size="21" fill="#ecf4fa">FRONTEND</text>
+<path d="M 598 87 V 321" stroke="#304358"/>
+<rect x="323" y="154" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="332" y="162" width="32" height="31" rx="7" fill="#61dafb" fill-opacity=".12" stroke="#61dafb" stroke-opacity=".48"/>
+<text x="348" y="183" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#61dafb">⚛</text>
+<text x="379" y="184" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">React</text>
+<rect x="323" y="212" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="332" y="220" width="32" height="31" rx="7" fill="#f3875d" fill-opacity=".12" stroke="#f3875d" stroke-opacity=".48"/>
+<text x="348" y="241" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#f3875d">H5</text>
+<text x="379" y="242" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">HTML5</text>
+<rect x="323" y="270" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="332" y="278" width="32" height="31" rx="7" fill="#65a6fc" fill-opacity=".12" stroke="#65a6fc" stroke-opacity=".48"/>
+<text x="348" y="299" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#65a6fc">C3</text>
+<text x="379" y="300" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">CSS3</text>
+<text x="612" y="103" font-family="Consolas,monospace" font-size="13" fill="#7890a7">03 /</text>
+<text x="612" y="132" font-family="Arial,sans-serif" font-weight="bold" font-size="21" fill="#ecf4fa">BACKEND / DATA</text>
+<path d="M 887 87 V 321" stroke="#304358"/>
+<rect x="612" y="154" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="621" y="162" width="32" height="31" rx="7" fill="#f07086" fill-opacity=".12" stroke="#f07086" stroke-opacity=".48"/>
+<text x="637" y="183" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#f07086">N</text>
+<text x="668" y="184" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">NestJS</text>
+<rect x="612" y="212" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="621" y="220" width="32" height="31" rx="7" fill="#86aef3" fill-opacity=".12" stroke="#86aef3" stroke-opacity=".48"/>
+<text x="637" y="241" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#86aef3">DB</text>
+<text x="668" y="242" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">PostgreSQL</text>
+<rect x="612" y="270" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="621" y="278" width="32" height="31" rx="7" fill="#a5e6c0" fill-opacity=".12" stroke="#a5e6c0" stroke-opacity=".48"/>
+<text x="637" y="299" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#a5e6c0">SQL</text>
+<text x="668" y="300" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">SQL</text>
+<text x="901" y="103" font-family="Consolas,monospace" font-size="13" fill="#7890a7">04 /</text>
+<text x="901" y="132" font-family="Arial,sans-serif" font-weight="bold" font-size="21" fill="#ecf4fa">DEV TOOLS</text>
+<rect x="901" y="154" width="265" height="47" rx="9" fill="#1b293a" stroke="#2f4a60"/>
+<rect x="910" y="162" width="32" height="31" rx="7" fill="#71bafa" fill-opacity=".12" stroke="#71bafa" stroke-opacity=".48"/>
+<text x="926" y="183" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="bold" fill="#71bafa">▣</text>
+<text x="957" y="184" font-family="Arial,sans-serif" font-size="17" fill="#d5e4ed">Docker</text>
+<path d="M 34 347 H 1166" stroke="#31495e"/>
+<text x="34" y="370" font-family="Consolas,monospace" font-size="13" letter-spacing="1.4" fill="#92aab9">// LEARN  →  BUILD  →  IMPROVE  →  REPEAT</text>
+<circle cx="1142" cy="364" r="5" fill="#c8ff78"/>
+</svg>

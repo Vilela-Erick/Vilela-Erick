@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Erick Vilela - developer banner">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111b2b"/><stop offset="100%" stop-color="#080d16"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#19283a"/><stop offset="100%" stop-color="#111a29"/></linearGradient>
+ <radialGradient id="glow"><stop offset="0%" stop-color="#c8ff78" stop-opacity=".2"/><stop offset="100%" stop-color="#c8ff78" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#91add1" opacity=".16"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity=".26"/></filter>
+</defs>
+<rect x="1" y="1" width="1198" height="438" rx="22" fill="url(#bg)" stroke="#33475c" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="436" rx="21" fill="url(#dots)"/>
+<circle cx="535" cy="-15" r="330" fill="url(#glow)"/>
+<path d="M 42 39 H 1158" stroke="#364b60" stroke-width="1"/>
+<circle cx="49" cy="21" r="4" fill="#c8ff78"/><text x="64" y="26" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#d1e3ee">EV / DEV PROFILE</text>
+<text x="1147" y="26" text-anchor="end" font-family="Consolas, monospace" font-size="13" letter-spacing="2" fill="#8ea5bb">001—2026</text>
+<path d="M 41 72 V 348" stroke="#c8ff78" stroke-width="5" stroke-linecap="round"/>
+<text x="65" y="105" font-family="Consolas, monospace" font-size="16" letter-spacing="4" fill="#c8ff78">HELLO WORLD, I'M</text>
+<text x="59" y="213" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="102" letter-spacing="-5" fill="#f1f7fa">ERICK</text>
+<text x="58" y="310" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="102" letter-spacing="-5" fill="#f1f7fa">VILELA<tspan fill="#c8ff78">.</tspan></text>
+<text x="65" y="347" font-family="Consolas, monospace" font-size="17" fill="#b1c5d4">WEB DEVELOPER <tspan fill="#c8ff78">/</tspan> BACKEND FOCUSED</text>
+<g transform="translate(64 371)">
+ <rect width="114" height="30" rx="15" fill="#233348" stroke="#4f6674"/>
+ <text x="57" y="20" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#d6eff4">REACT</text>
+ <rect x="124" width="115" height="30" rx="15" fill="#233348" stroke="#4f6674"/>
+ <text x="182" y="20" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#d6eff4">NESTJS</text>
+ <rect x="249" width="145" height="30" rx="15" fill="#233348" stroke="#4f6674"/>
+ <text x="321" y="20" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#d6eff4">POSTGRESQL</text>
+</g>
+<g filter="url(#shadow)">
+<rect x="679" y="69" width="464" height="330" rx="16" fill="url(#panel)" stroke="#496077" stroke-width="1.5"/>
+<path d="M 680 113 H 1141" stroke="#38526b"/>
+<circle cx="703" cy="91" r="6" fill="#ed7779"/><circle cx="725" cy="91" r="6" fill="#f7c86a"/><circle cx="747" cy="91" r="6" fill="#9be899"/>
+<text x="1108" y="97" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#afbfce">developer.ts</text>
+</g>
+<g font-family="Consolas, 'Courier New', monospace" font-size="19">
+<text x="704" y="151"><tspan fill="#667f97">01</tspan><tspan dx="22" fill="#c69aff">const</tspan><tspan fill="#e4edf5"> developer = </tspan><tspan fill="#efcc83">{</tspan></text>
+<text x="704" y="191"><tspan fill="#667f97">02</tspan><tspan dx="45" fill="#88d1e8">name</tspan><tspan fill="#e4edf5">: </tspan><tspan fill="#c8ff78">'Erick Vilela'</tspan><tspan fill="#e4edf5">,</tspan></text>
+<text x="704" y="231"><tspan fill="#667f97">03</tspan><tspan dx="45" fill="#88d1e8">focus</tspan><tspan fill="#e4edf5">: </tspan><tspan fill="#c8ff78">'Backend'</tspan><tspan fill="#e4edf5">,</tspan></text>
+<text x="704" y="271"><tspan fill="#667f97">04</tspan><tspan dx="45" fill="#88d1e8">mindset</tspan><tspan fill="#e4edf5">: </tspan><tspan fill="#c8ff78">'Keep building'</tspan></text>
+<text x="704" y="311"><tspan fill="#667f97">05</tspan><tspan dx="22" fill="#efcc83">}</tspan><tspan fill="#e4edf5">;</tspan></text>
+<text x="704" y="358"><tspan fill="#667f97">&gt;</tspan><tspan dx="13" fill="#c8ff78">_</tspan><tspan dx="4" fill="#a8bdc9"> learning by doing</tspan></text>
+</g>
+</svg>
